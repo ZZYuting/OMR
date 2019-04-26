@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/3/15 20:32:54。
+     1>项目“d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\matchTmp\matchTmp.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>源.cpp(3124): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3204): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(3218): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3247): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3363): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3391): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(3401): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3420): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3518): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3615): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3630): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3752): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3779): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(3792): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3814): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3913): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3941): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(3954): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3976): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(4076): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(4104): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(4114): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(4136): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(3114): warning C4101: “dir”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\Release\matchTmp.exe" /NOLOGO opencv_calib3d2412.lib opencv_contrib2412.lib opencv_core2412.lib opencv_features2d2412.lib opencv_flann2412.lib opencv_gpu2412.lib opencv_highgui2412.lib opencv_imgproc2412.lib opencv_legacy2412.lib opencv_ml2412.lib opencv_nonfree2412.lib opencv_objdetect2412.lib opencv_ocl2412.lib opencv_photo2412.lib opencv_stitching2412.lib opencv_superres2412.lib opencv_ts2412.lib opencv_video2412.lib opencv_videostab2412.lib IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib zlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\Release\matchTmp.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\Release\matchTmp.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+         已完成代码的生成
+         matchTmp.vcxproj -> d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\Release\matchTmp.exe
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2013\Projects\matchTmp\matchTmp\matchTmp.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:36.87
